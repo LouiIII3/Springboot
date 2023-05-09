@@ -1,0 +1,5 @@
+    @GetMapping("/articles/{id}/delete") //URL 요청 접수
+    public String delete() {
+    //메서드 생성 및 NULL 값 반환
+        return null;
+    }
