@@ -1,3 +1,4 @@
+
 const id = triggerBtn.getAttribute("data-bs-id");
         const nickname = triggerBtn.getAttribute("data-bs-nickname");
         const body = triggerBtn.getAttribute("data-bs-body");
