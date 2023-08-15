@@ -1,1 +1,2 @@
+//변수 만들기
 model.addAttribute("변수이름","변숫값");
