@@ -1,3 +1,2 @@
 // 현재 페이지 새로고침
-
 window.location.reload();
