@@ -1,2 +1,0 @@
-#코드 추가(src > main > resources > application.properties)
-server.servlet.encoding.force=true
