@@ -1,4 +1,5 @@
 document.querySelector("#edit-comment-nickname").value = nickname;       
 document.querySelector("#edit-comment-body").value = body;
+
 document.querySelector("#edit-comment-id").value = id;
 document.querySelector("#edit-comment-article-id").value = articleId;
