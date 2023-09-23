@@ -1,3 +1,5 @@
+//putty 사용
+
 cd tomcat/bin
 ./shutdown.sh
 ./startup.sh
