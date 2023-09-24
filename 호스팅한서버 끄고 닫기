@@ -3,3 +3,8 @@
 cd tomcat/bin
 ./shutdown.sh
 ./startup.sh
+
+
+//log 확인 방법
+cd tomcat/logs
+tail -f catalina.out
