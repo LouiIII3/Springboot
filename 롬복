@@ -19,7 +19,7 @@ public class Person {
     private String lastName;
     private int age;
 
-    // 생성자, Getter 및 Setter는 자동으로 생성됨
+    // 생성자, Getter 및 Setter는 자동으로 생성된다.
 
     @Override
     public String toString() {
