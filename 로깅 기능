@@ -1,3 +1,2 @@
-//로깅 
 //SimpleLogging Facade for Java
 @Slf4j
