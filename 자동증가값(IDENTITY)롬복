@@ -1,1 +1,2 @@
- @GeneratedValue(strategy = GenerationType.IDENTITY)
+//IDENTITY 모드
+@GeneratedValue(strategy = GenerationType.IDENTITY)
