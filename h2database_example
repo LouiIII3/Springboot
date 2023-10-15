@@ -45,5 +45,6 @@ class BookController {
     }
 }
 
+
 interface BookRepository extends JpaRepository<Book, Long> {
 }
