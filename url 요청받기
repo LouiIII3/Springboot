@@ -1,0 +1,7 @@
+//컨트롤러는 변수를 사용할때는 중괄호 하나만 사용한다.
+@GetMapping("articles/{id}")
+  public String show(@PathVariable Long id) {
+      log.info("id = " + id);
+      return "";
+  }
+}
