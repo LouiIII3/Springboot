@@ -13,7 +13,6 @@ import java.util.List;
 
 @SpringBootApplication
 public class SpringBootDataJpaExampleApplication {
-
     public static void main(String[] args) {
         SpringApplication.run(SpringBootDataJpaExampleApplication.class, args);
     }
