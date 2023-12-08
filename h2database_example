@@ -11,6 +11,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import java.util.List;
 
+
 @SpringBootApplication
 public class SpringBootDataJpaExampleApplication {
     public static void main(String[] args) {
