@@ -1,4 +1,4 @@
-//URL 요청 접수
+//URL 요청
 @GetMapping("/articles/{id}/delete")
     public String delete() {
         return null;
