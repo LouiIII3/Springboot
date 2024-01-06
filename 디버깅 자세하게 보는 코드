@@ -1,2 +1,2 @@
-//application.properties에 추가할것
+//application.properties에 추가하면 된다.
 logging.level.root=debug
