@@ -1,0 +1,5 @@
+//JPA가 생성하는 SQL 쿼리를 콘솔에 출력할지 여부를 결정
+spring.jpa.show-sql=true
+
+//true로 설정되면, 출력되는 SQL 쿼리가 읽기 쉽도록 보기 좋게 포맷
+spring.jpa.properties.hibernate.format_sql=true
