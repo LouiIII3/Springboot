@@ -7,3 +7,6 @@ spring.jpa.properties.hibernate.format_sql=true
 //자동증가값을 바꾸는 코드(9로 하면 9부터 증가하게 된다.)
 ALTER TABLE `sunghuilee2`.`article`
 AUTO_INCREMENT = 24;
+
+//스키마 자동 생성 및 업데이트 코드(동기화 관련)
+spring.jpa.hibernate.ddl-auto=update
