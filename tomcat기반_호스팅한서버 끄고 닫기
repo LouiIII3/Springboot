@@ -1,4 +1,4 @@
-//putty 사용
+//putty 사용 가능
 
 cd tomcat/bin
 ./shutdown.sh
