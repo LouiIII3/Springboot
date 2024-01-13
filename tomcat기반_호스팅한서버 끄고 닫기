@@ -4,7 +4,6 @@ cd tomcat/bin
 ./shutdown.sh
 ./startup.sh
 
-
 //log 확인 방법(창을 하나 더열어서 가능)
 cd tomcat/logs
 tail -f catalina.out
