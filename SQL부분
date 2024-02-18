@@ -8,5 +8,5 @@ spring.jpa.properties.hibernate.format_sql=true
 ALTER TABLE `sunghuilee2`.`article`
 AUTO_INCREMENT = 24;
 
-//스키마 자동 생성 및 업데이트 코드(동기화 관련)
+//스키마 자동 생성 및 업데이트 코드(동기화 )
 spring.jpa.hibernate.ddl-auto=update
