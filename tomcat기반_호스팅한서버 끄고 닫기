@@ -1,4 +1,4 @@
-//putty 사용 가능
+//putty 사용 가능(cafe24에서 사용)
 
 cd tomcat/bin
 ./shutdown.sh
