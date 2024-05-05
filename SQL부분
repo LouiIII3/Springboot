@@ -4,6 +4,7 @@ spring.jpa.show-sql=true
 //true로 설정되면, 출력되는 SQL 쿼리가 읽기 쉽도록 보기 좋게 포맷
 spring.jpa.properties.hibernate.format_sql=true
 
+
 //자동증가값을 바꾸는 코드(9로 하면 9부터 증가하게 된다.)
 ALTER TABLE `sunghuilee2`.`article`
 AUTO_INCREMENT = 24;
